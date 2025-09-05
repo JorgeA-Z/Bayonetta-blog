@@ -38,4 +38,4 @@ You can preview the production build with `npm run preview`.
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
 >
 ## Demo
-Try this website: [link](https://tubular-entremet-c9ec24.netlify.app/History)
+Try this website: [Bayonetta blog](https://tubular-entremet-c9ec24.netlify.app/History)
